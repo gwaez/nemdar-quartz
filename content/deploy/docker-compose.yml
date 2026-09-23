@@ -1,0 +1,15 @@
+services:
+  silverbullet:
+    image: ghcr.io/silverbulletmd/silverbullet:latest
+    restart: unless-stopped
+    environment:
+      # Optional basic auth: user:password
+      # SB_USER: admin:change-me
+      SB_HOSTNAME: "0.0.0.0"
+    volumes:
+      - brain_data:/space
+    ports:
+      - "3000:3000"
+
+volumes:
+  brain_data:

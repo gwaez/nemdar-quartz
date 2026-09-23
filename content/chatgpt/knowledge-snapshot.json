@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-09-23T06:57:42Z",
+  "company": {
+    "name_en": "NEMDAR",
+    "name_ar": "نمدار",
+    "line": "NEMDAR 1.2 Company First",
+    "website": "https://nemdar.tech",
+    "github_login": "gwaez",
+    "positioning": "Service-led tech/AI implementation company; diagnose → build → productize only after paid repeatability"
+  },
+  "current_focus": [
+    "Company First sales/delivery",
+    "NEMDAR Social UAT",
+    "Commercial + product pricing"
+  ],
+  "offers_aed": {
+    "diagnosis_small": [
+      2500,
+      4000
+    ],
+    "diagnosis_sme": [
+      5000,
+      7500
+    ],
+    "diagnosis_multi": [
+      8000,
+      15000
+    ],
+    "quick_automation": [
+      7500,
+      20000
+    ],
+    "department_os": [
+      20000,
+      60000
+    ],
+    "managed_core_monthly": [
+      3500,
+      5000
+    ],
+    "managed_growth_monthly": [
+      7500,
+      10000
+    ],
+    "managed_embedded_monthly": [
+      15000,
+      30000
+    ]
+  },
+  "projects": [
+    {
+      "id": "nemdar-tech",
+      "confidence": "high",
+      "status": "live"
+    },
+    {
+      "id": "moksh",
+      "confidence": "high",
+      "status": "personal_assistant_not_company_sot"
+    },
+    {
+      "id": "orgos",
+      "confidence": "high",
+      "status": "rd_freeze_broad_expansion"
+    },
+    {
+      "id": "factory",
+      "confidence": "high",
+      "status": "v0.4_to_v0.5"
+    },
+    {
+      "id": "npa",
+      "confidence": "high",
+      "status": "factory_integration_program"
+    },
+    {
+      "id": "social",
+      "confidence": "high",
+      "status": "uat_v0.8_v0.9_current_focus"
+    },
+    {
+      "id": "pricing_product",
+      "confidence": "high",
+      "status": "island_v1_current_focus"
+    },
+    {
+      "id": "tips",
+      "confidence": "high",
+      "status": "paused_discovery"
+    },
+    {
+      "id": "zero-interest-wallet",
+      "confidence": "high",
+      "status": "active_test_not_live"
+    },
+    {
+      "id": "core",
+      "confidence": "medium",
+      "status": "lite_after_paid_proof"
+    },
+    {
+      "id": "nemdar-os",
+      "confidence": "medium",
+      "status": "ui_prototype"
+    }
+  ],
+  "access": {
+    "github": true,
+    "chatgpt": true,
+    "user_machine_kb": "C:\\\\Users\\\\AMahmoud\\\\Documents\\\\nemdar-kb"
+  },
+  "kb_path_box": "/home/box/nemdar-kb"
+}

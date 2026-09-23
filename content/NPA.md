@@ -1,0 +1,3 @@
+# NPA
+
+→ [[projects/NPA]]
